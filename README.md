@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh0413&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh0413" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, AI,AWS,Web Development etc.**
+- 🌱 I’m currently learning **Machine Learning, AI, AWS ,Devops,Web Development etc.**
 
 - 💬 Ask me about **Python,Mysql,Java,Html,Css**
 
